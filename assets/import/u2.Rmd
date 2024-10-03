@@ -1,0 +1,328 @@
+# Faith
+
+In this video, we provide a succinct overview of the four key themes in the second unit: definitions, hope, action, and rationality. Our exploration will center around the intricate nature of faith, encompassing not only the attitudes associated with faith, such as beliefs and trust, but also delving into the actions inspired by faith, with a brief emphasis on ethical considerations. Lastly, our journey will lead us to scrutinize the rationality of faith, contemplating its alignment with evidence and the broader spectrum of reasoned thought. Join us as we navigate these nuanced dimensions of faith, seeking a deeper understanding of its essence and implications.
+
+**Faith Unit 2 Introduction** Video (7 min 34 sec)
+
+<div class="video-container">
+
+<iframe src=https://player.vimeo.com/video/877227001?h=ef5f85198f&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2, Introduction"></iframe>
+
+</div>
+
+## Overview {-}
+
+### Topics {-}
+
+This unit is divided into the following four topics:
+
+1. Faith and Definitions
+2. Faith and Hope
+3. Faith and Action
+4. Faith and Rationality
+
+### Learning Outcomes {-}
+
+When you’ve completed this unit, you will have learned how to:
+
+- Identify and understand the nature of faith, including definitions, ethical implications, and its relationship to rationality
+- Develop a greater understanding of the ethical behavior required by faith
+- Identify briefly how Christianity applies to living life within the context of justice and faith
+- Enhance a greater understanding about faith and rationality
+- Navigate some of the objections to the nature of faith, particularly the beliefs about faith
+
+## 2.1 Faith and Definitions {-}
+
+Follow and complete the steps below to accomplish your learning for this topic.
+
+1. Read Topic Notes
+2. Watch Topic Video
+3. Read Topic Reading
+4. Complete Note-Taking Exercise
+5. Complete Topic Questionnaire
+6. Watch Optional Video
+
+### Topic Notes {-}
+
+The first topic includes considering the multifaceted definitions of the term “faith.” A pivotal distinction surfaces when considering faith both as an attitude and as an action. Faith as an attitude encapsulates the cognitive realm, residing in our thoughts and beliefs, encompassing notions of trust and hope. This conceptualization aligns with common perceptions of faith as a mental and cognitive experience.
+
+In contrast, faith as an action introduces an ethical dimension to the term. Rooted in the Greek word “pistis,” faith, in this context, pertains to ethical behavior directed towards a person or an ideal. This perspective invites us to view faith not merely as a mental state but as a manifestation of ethical considerations in our actions and conduct.
+
+Further nuances emerge within faith as an attitude, where we explore the differentiation between doxastic faith and non-doxastic faith. The term “doxastic” centers on belief, indicating a cognitive dimension to faith. Conversely, “non-doxastic” faith extends beyond mere belief, encompassing faith that operates independently of explicit cognitive assent.
+
+This exploration aims to unravel the intricate layers of faith, encouraging a comprehensive understanding that spans both the cognitive and ethical dimensions of this complex and significant concept.
+
+### Topic Video {-}
+
+In this video, you will learn about the various definitions of faith from Elizabeth Jackson’s article, “Faith: Contemporary Perspectives”. The main focus is on learning about various distinctions with the concept of faith, such as attitude faith and action faith, and doxastic and non-doxastic view of faith.
+
+**Faith and Definitions Unit 2 Topic 1** Video (8 min 01 sec)
+
+<div class="video-container">
+
+<iframe src=https://player.vimeo.com/video/877228997?h=f6b8837670&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2, Topic 1, Definitions"></iframe>
+
+</div>
+
+### Topic Reading {-}
+
+- Jackson - *Types of Faith* - https://iep.utm.edu/faith-contemporary-perspectives/#SSH1ai{target="_blank"}
+
+### Note-Taking Exercise {-}
+
+**These note-taking exercises are designed to help you navigate challenging texts. While reading through the entire text without interruption can provide a grasp of the author’s overarching message, it might be overwhelming in some cases, making comprehension difficult. In such instances, students may be tempted to abandon the text and seek online summaries, which may not accurately reflect the author’s intent.**
+
+**If you find the readings challenging, one effective strategy is to break down the text, either by section or even paragraph. Take point-form notes on the key ideas within each chunk of the text. As you progress and continue taking notes, you may find it helpful to revisit earlier sections to revise or add additional insights.**
+
+**By the end of this exercise, you should have detailed notes covering the entire text, enhancing your understanding of the author’s intended message. This approach proves particularly beneficial in courses where content recall is crucial for exams or when crafting a research essay, helping you better recall various research points you’ve gathered.**
+
+```{block2, type='reflect'}
+
+Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer as you will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=585" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Topic Questionnaire {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer as you will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=577" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Optional Video {-}
+
+```{block2, type='reflect'}
+
+In this 10 minute 06 second optional video, you will learn some further distinctions between the terms faith and belief, especially in religious contexts.
+
+[Watch: *Belief vs Faith (Philosophical Distinction)*](https://www.youtube.com/watch?v=o8QKkHWUSu0){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o8QKkHWUSu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+## 2.2 Faith and Hope {-}
+
+Follow and complete the steps below to accomplish your learning for this topic.
+
+1. Read Topic Notes
+2. Watch Topic Video
+3. Read Topic Reading
+4. Complete Note-Taking Exercise
+5. Complete Topic Questionnaire
+6. Watch Optional Video
+
+### Topic Notes {-}
+
+Building on our exploration of faith as an attitude, particularly focusing on belief and trust in the previous topic, we now inquire into a non-doxastic facet of faith: hope. Unlike belief and trust, hope doesn’t necessarily hinge on cognitive assent, marking it as a non-doxastic attitude within the realm of faith. Louis Pojman contends that understanding faith as hope is particularly relevant, especially in the context of Christian faith and the doctrine of salvation.
+
+The concept of salvation suggests that humanity is in jeopardy, and God is endeavoring to rescue them. Traditional perspectives posit that belief in God is a prerequisite for salvation. However, Pojman challenges this notion, recognizing that humans don’t have absolute control over their beliefs, including doubts about God. In this context, the idea that salvation is contingent on something beyond one’s control raises questions. Pojman argues that faith as hope in God and his redemptive plan provides a more accurate and inclusive perspective on faith and salvation.
+
+By emphasizing hope as a non-doxastic attitude within faith, this discussion broadens our understanding of faith beyond mere cognitive elements, offering a nuanced perspective that aligns with the complexities of belief, doubt, and the pursuit of salvation.
+
+### Topic Video {-}
+
+In this video, you will learn about faith as hope in the midst of doubt from Louis Pojman’s article, “Faith, Hope, Doubt”. According to Pojman, faith is a matter of hope and not belief. Thus, faith is non-doxastic.
+
+**Faith and Hope Unit 2 Topic 2** Video (10 min 26 sec)
+
+<div class="video-container">
+
+<iframe src=https://player.vimeo.com/video/863371492?h=320703f256&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2 ,Topic 2, Hope"></iframe>
+
+</div>
+
+### Topic Reading {-}
+
+- Pojman - [*Faith, Hope and Doubt*](assets/u2/PHIL-100-Pojman-Faith-Hope-and-Doubt.pdf){target="_blank"}
+
+### Note-Taking Exercise {-}
+
+```{block2, type='reflect'}
+
+Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer as you will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=586" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Topic Questionnaire {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer as you will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=578" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Optional Video {-}
+
+```{block2, type='reflect'}
+
+In this 6 minute 17 second optional video, you will learn about faith and doubt by Richard Swinburne.
+
+[Watch: *Swinburne: On Doubt and Faith*](https://www.youtube.com/watch?v=exsmSlxnbHQ){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/exsmSlxnbHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+## 2.3 Faith and Action {-}
+
+Follow and complete the steps below to accomplish your learning for this topic.
+
+1. Read Topic Notes
+2. Watch Topic Video
+3. Read Topic Reading
+4. Complete Note-Taking Exercise
+5. Complete Topic Questionnaire
+6. Watch Optional Video
+
+### Topic Notes {-}
+
+In our recent discussions, we’ve examined faith as an attitude, encompassing beliefs, trust, and hope—mental and cognitive experiences that reside within an individual. Shifting the focus, we now explore faith as action, centering on behavioral aspects rather than solely on mental experiences. While beliefs, desires, and hopes may influence actions, this connection is not absolute. Consequently, faith as action directs attention to ethical behavior as the primary mode of expressing faith.
+
+In this third topic, we briefly navigate a theological controversy within Christianity concerning the definition of faith. Traditionally, faith was construed as an attitudinal concept, emphasizing beliefs and trust. However, contemporary perspectives challenge this tradition, proposing that Christian faith is more intricately linked to Christian ethics and good works, de-emphasizing the importance of specific attitudinal beliefs and trust in Christianity.
+
+This exploration invites us to reconsider the nature of faith within the Christian context, prompting reflection on whether faith should be predominantly characterized by mental attitudes or by the ethical conduct and good works that spring forth from one’s beliefs.
+
+### Topic Video {-}
+
+In this video, you will learn about faith and action from Boyd and Thorsen’s chapter, “Ethics in the Christian Scriptures.” Unlike faith as belief, trust, and hope, faith as action focuses on behavior and ethics, rather than on mental content. You will also be introduced to the debate in Christian theology about faith and works.
+
+**Faith and Action Unit 2 Topic 3** Video (8 min 54 sec)
+
+<div class="video-container">
+
+<iframe src=https://player.vimeo.com/video/863371527?h=d793b2efb1&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2, Topic 3, Action"></iframe>
+
+</div>
+
+### Topic Reading {-}
+
+- Boyd and Thorsen - [*Ethics in the Christian Scriptures*](assets/u2/PHIL-100-Boyd-and-Thorsen-Ethics-in-the-Christian-Scriptures.pdf){target="_blank"}
+
+### Note-Taking Exercise {-}
+
+```{block2, type='reflect'}
+
+Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer as you will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=587" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Topic Questionnaire {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer as you will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=579" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Optional Video {-}
+
+```{block2, type='reflect'}
+
+In this 9 minute 04 second optional video, Professor Peter Singer discusses the role of religion in ethics. Questions discussed include: Is something good because a divine being approves of it, or does the divine being approve of it because it is good? How do we know what is good without religion? How do we reconcile ethics from different religions coexisting in the same society?
+
+[Watch: *Religion and Ethics*](https://www.youtube.com/watch?v=w9QtjQ5Ow7Y){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w9QtjQ5Ow7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+## 2.4 Faith and Rationality {-}
+
+Follow and complete the steps below to accomplish your learning for this topic.
+
+1. Read Topic Notes
+2. Watch Topic Video
+3. Read Topic Reading
+4. Complete Note-Taking Exercise
+5. Complete Topic Questionnaire
+6. Watch Optional Video
+
+### Topic Notes {-}
+
+In our preceding discussions, we touched upon various definitions of faith, distinguishing between faith as attitudes and faith as actions. While these categories may overlap, they can also maintain distinct identities. However, a persistent challenge to these notions of faith arises from critics who question the rationality of faith, whether conceived as belief and trust or as action. This final topic examines this challenge.
+
+The term “rationality” here pertains to the alignment of beliefs and actions with evidence. According to the evidentialist perspective, if beliefs and actions deviate from the evidence, they are deemed irrational. Hence, the objection posits that to exhibit rationality, one must align beliefs and actions according to the available evidence. The ensuing exploration assesses the strength of this objection, beginning with an examination of William Clifford’s renowned work on the ethics of belief.
+
+Clifford contends that it is ethically wrong to believe anything not proportional to the evidence. To evaluate this evidential objection, we consider several responses, including the potential incoherence of the objection, the observation that many of our rational beliefs are not strictly proportional to the evidence, and the recognition that, in certain cases of faith, there may be sufficient evidence to meet rational standards.
+
+### Topic Video {-}
+
+In this video, you will learn about faith and rationality from W.K. Clifford’s article, “The Ethics of Belief.” You will be introduced to the evidential objection to religious belief, which states that religious belief is rational only if there is evidence for religious belief, and some brief responses and replies to this evidential objection.
+
+**Faith and Rationality Unit 2 Topic 4** Video (19 min 01 sec)
+
+<div class="video-container">
+
+<iframe src=https://player.vimeo.com/video/877229308?h=235bf75818&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479 width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="PHIL 100 - Unit 2, Topic 4, Rationality"></iframe>
+
+</div>
+
+### Topic Reading {-}
+
+- WK Clifford - [*Ethics of Belief*](assets/u2/PHIL-100-Clifford-Ethics-of-Belief.pdf){target="_blank"}
+
+### Note-Taking Exercise {-}
+
+```{block2, type='reflect'}
+
+Click the Download button on the left after you've completed all the notes for this reading and save the answers to your computer as you will be required to submit your downloaded notes to this reading as part of your Unit 1 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=588" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Topic Questionnaire {-}
+
+```{block2, type='reflect'}
+
+- Answering these questions will help you reflect on the topic content and prepare you for your Unit 2 Reflection Assignment.
+- Click the Download button on the left after you've completed all the questions for this unit and save the answers to your computer as you will be required to submit the downloaded answers to these questions as part of your Unit 2 Reflection Assignment.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=580" width="936" height="1782" frameborder="0" allowfullscreen="allowfullscreen" title="PHIL 100 Unit 1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+```
+
+### Optional Video {-}
+
+```{block2, type='reflect'}
+
+In this 8 minute 38 second optional video, you will learn about further details about the relationship between faith and reason.
+
+[Watch: *Religion: Reason and Faith*](https://www.youtube.com/watch?v=MTPHXNMi9tA){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MTPHXNMi9tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
